@@ -2,7 +2,7 @@
 OpenBoard is an open source cross-platform interactive white board application designed primarily for use in schools. It was originally forked from Open-Sankoré, which was itself based on Uniboard.
 
 Supported platforms are Windows (7+), OS X (10.9+) and Linux (tested on Ubuntu 14.04 and 16.04).
-
+[![Snap Status](https://build.snapcraft.io/badge/arturu/OpenBoard.svg)](https://build.snapcraft.io/user/arturu/OpenBoard)
 
 ## Installing
 
