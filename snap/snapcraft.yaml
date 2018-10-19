@@ -1,7 +1,7 @@
 
   name: openboard
   version: '0.1' # just for humans, typically '1.2+git' or '1.3.2'
-  OpenBoard is a interactive whiteboard application. # 79 char long summary
+  summary: OpenBoard is a interactive whiteboard application. # 79 char long summary
   description: |
     OpenBoard is an open source cross-platform interactive white board 
     application designed primarily for use in schools. 
